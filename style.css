@@ -1,8 +1,8 @@
 
-body{
+.The-background{
     background-color: rgba(149, 255, 35, 0.516); 
 }
-html{
+.Scrolling{
     scroll-behavior: smooth;
 }
 .background-image{
@@ -42,14 +42,14 @@ html{
     background-color: rgba(80, 229, 255, 0.401);
     color: rgba(174, 15, 253, 0.895);
 }
-h1{
+.The-words{
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 45px;
 
 }
-p{
+.text{
     display: flex;
     justify-content: center;
     align-items: center; 
